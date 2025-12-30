@@ -33,10 +33,7 @@ The code is organized by the distribution of the response variable and specific 
 ### 3. Sparse Regression
 * **RSOTR_Main_Sparse.R**: Implementation for cases requiring sparsity constraints.
 * **RSOTR_Main_Sparse_Utils.R**: Utility functions for the sparse modeling framework.
-
-### 4. Performance & Evaluation
-* **RSOTR_Performance.R**: Centralized functions for calculating metrics (RMSE, $R^2$, WMAPE, Bias) and generating visualizations/heatmaps of the results.
-
+  
 ## Getting Started
 
 1. **Download the Scripts**: Ensure all `.R` files (both Main and Utils) are stored in the same directory.
