@@ -16,6 +16,7 @@ The implementation requires **R** and several packages for tensor manipulation a
 
 ```R
 install.packages(c("rTensor", "data.table", "MASS", "caret", "epca", "parallel", "tictoc", "robustlm", "ggplot2"))
+```
 
 ## Repository Structure
 
